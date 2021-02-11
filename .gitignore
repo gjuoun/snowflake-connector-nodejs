@@ -14,3 +14,7 @@ wss-*-agent.config
 wss-unified-agent.jar
 whitesource/
 
+# local dev
+/src
+# jsdoc dir
+/out
